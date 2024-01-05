@@ -7,9 +7,9 @@
 # Installing
 <b>Git Clone</b><br>
 $git clone https://github.com/0xl30/Neofetch-Config.git<br>
-$cd Neofetch-Config
-$mv ~/.config/neofetch ~/.config/neofetch-bak # Your Old Neofetch File Backup
-$mv neofetch ~/.config/
+$cd Neofetch-Config<br>
+$mv ~/.config/neofetch ~/.config/neofetch-bak # Your Old Neofetch File Backup<br>
+$mv neofetch ~/.config/<br>
 $nano ~/.zshrc #if you use bash then nano ~/.bashrc<br>
 add --> neofetch
 
